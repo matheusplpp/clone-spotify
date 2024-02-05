@@ -1,0 +1,26 @@
+{
+    "artists": [
+      { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+      { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+      { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
+      { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
+      { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
+      { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "MC Daleste", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02c23152270082bd71164c579c" },
+      { "id": 9, "name": "Anitta", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d00004851076859bf412f59cf43d6d94d" },
+      { "id": 10, "name": "Marília Mendonça", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab67616100005174ffaebdbc972967729f688e25" },
+      { "id": 11, "name": "Ivete Sangalo", "genre": "Axé", "urlImg": "https://i.scdn.co/image/ab676161000051749c8910d52e3a992e2d49268f" },
+      { "id": 13, "name": "Gilberto Gil", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174ea64e6a7a0ac576a8ecf8416" },
+      { "id": 14, "name": "Sandy", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051742f19f3e4e2358db2f8fb3cd6" },
+      { "id": 15, "name": "Thiaguinho", "genre": "Pagode", "urlImg": "https://i.scdn.co/image/ab676161000051745bc75cc714e5596f738521de" },
+      { "id": 16, "name": "Zeca Pagodinho", "genre": "Pagode", "urlImg": "https://i.scdn.co/image/ab67616100005174ba8ad8a2315ed9148c7b1cc7" },
+      { "id": 17, "name": "Anavitória", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051747ff4c284a04f220d32ddeee2" },
+      { "id": 18, "name": "Luan Santana", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab67616100005174c0511c8be97d924f695f595c" },
+      { "id": 19, "name": "Elza Soares", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174b93382ed569fe5f1a3864589" },
+      { "id": 20, "name": "Nando Reis", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e3c8a08b23d068b6de877da9" }
+    ]
+  }
+
+
+  
